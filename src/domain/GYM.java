@@ -185,9 +185,7 @@ public class GYM {
 
 	//endregion
 
-	//region
-
-	// FUNCIONES CLIENTES
+	//region FUNCIONES CLIENTES
 
 	public void Chequear_deuda(Cliente cliente)// Lista la deuda actual tiene el cliente
 	{
@@ -546,6 +544,15 @@ public class GYM {
 
 		tienda.agregar(cantidad);                        ///utilizo la funcion de la interfaz billetera
 		System.out.println("Reposicion de caja registrada");
+
+	}
+
+	public void Cargar_Tienda (){
+
+		tienda.agregarProducto(new Producto("Agua Mineral",30,80));
+		tienda.agregarProducto(new Producto("Agua Saborizada",25,100));
+		tienda.agregarProducto(new Producto("Bebida Energizante",20,120));
+		tienda.agregarProducto(new Producto("Barra de Cereal",40,35));
 
 	}
 

@@ -30,7 +30,7 @@ public class Main {
 			e.getMessage();
 		}
 
-
+		gym.Cargar_Tienda();
 
 		while (estado) {
 			System.out.println("");
