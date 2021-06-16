@@ -5,16 +5,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/clientes.json" beforeDir="false" afterPath="$PROJECT_DIR$/clientes.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/app/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/app/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/domain/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/domain/Cliente.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM$1.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM$3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/domain/GYM.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sistema-gym/domain/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/sistema-gym/domain/Profesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/profesores.json" beforeDir="false" afterPath="$PROJECT_DIR$/profesores.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Cliente.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/GYM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/GYM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/domain/Profesor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/turnos.json" beforeDir="false" afterPath="$PROJECT_DIR$/turnos.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +100,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />

@@ -2,7 +2,49 @@
   "lista": [
     {
       "horario": 9,
-      "clientes": [],
+      "clientes": [
+        {
+          "nombre": "Juan",
+          "apellido": "Perez",
+          "dni": 5,
+          "genero": "H",
+          "edad": 18,
+          "celular": 223421122,
+          "deuda": 0
+        },
+        {
+          "fechaIngreso": {
+            "year": 2021,
+            "month": 6,
+            "day": 16
+          },
+          "frecuenciaPago": "SEMANAL",
+          "pagoCuota": true,
+          "nombre": "Gonzalo",
+          "apellido": "Perez",
+          "dni": 8,
+          "genero": "H",
+          "edad": 18,
+          "celular": 223421122,
+          "deuda": 0
+        },
+        {
+          "fechaIngreso": {
+            "year": 2021,
+            "month": 6,
+            "day": 16
+          },
+          "frecuenciaPago": "SEMANAL",
+          "pagoCuota": true,
+          "nombre": "Franco",
+          "apellido": "Valiente",
+          "dni": 10,
+          "genero": "H",
+          "edad": 18,
+          "celular": 223421122,
+          "deuda": 0
+        }
+      ],
       "profesor": {
         "disciplina": "MUSCULACION",
         "nombre": "Hector",
